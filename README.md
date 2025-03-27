@@ -12,6 +12,10 @@ I have changed alot. Have fun finding all the easter eggs.
 
 # CHANGELOG
 1.0.0: Release.
+
 1.0.1: i dont remember
+
 1.0.2: i dont remember
+
 1.0.3: removed "cunny hunt", weird original mod maker
+
